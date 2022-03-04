@@ -1,0 +1,17 @@
+---
+title: workshop
+author: you
+output: html_document
+---
+
+# Title
+
+and some text
+
+A plot
+
+```{R}
+plot(1)
+```
+
+
